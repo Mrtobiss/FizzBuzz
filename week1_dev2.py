@@ -22,5 +22,5 @@ for i in range(1, 101):
 		print("FizzBuzz")
 	# If none of the above conditions are met, print the number
 	else:
-		print(i)
+	    print(i)
         
